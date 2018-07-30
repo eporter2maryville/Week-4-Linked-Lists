@@ -1,3 +1,8 @@
+# Name: Brent Porter
+# GitHub ID: eporter2maryville
+# Assignment: 4.2 Create a Queue
+
+
 class Queue:
     
     #creates the queue

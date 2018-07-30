@@ -1,3 +1,8 @@
+# Name: Brent Porter
+# GitHub ID: eporter2maryville
+# Assignment: 4.1 Create a Stack
+
+
 class Stack:
     
     #creates the stack

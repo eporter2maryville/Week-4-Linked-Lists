@@ -1,3 +1,8 @@
+# Name: Brent Porter
+# GitHub ID: eporter2maryville
+# Assignment: 4.3 Create a Dequeue
+
+
 class Dequeue:
     
     #creates the queue
